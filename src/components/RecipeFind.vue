@@ -231,5 +231,13 @@ export default {
     "You can search for multiple ingredients by separating them with a space": "Ви можете шукати кілька інгредієнтів, розділяючи їх пробілом",
     "You can search for multiple keywords by separating them with a space": "Ви можете шукати кілька ключових слів, розділяючи їх пробілом"
   }
+    "pl": {
+    "Filter by": "Filtruj",
+    "Name": "Nazwa",
+    "Ingredients": "Składniki",
+    "Keywords": "Słowa kluczowe",
+    "You can search for multiple ingredients by separating them with a space": "Możesz wyszukiwać wiele składników, oddzielając je spacją",
+    "You can search for multiple keywords by separating them with a space": "Możesz wyszukiwać wiele słów kluczowych, oddzielając je spacją"
+  },
 }
 </i18n>
