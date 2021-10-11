@@ -322,5 +322,12 @@ export default {
     "View full recipe at": "Подивитися повний рецепт на",
     "Similar drinks": "Подібні напої"
   }
+    "pl": {
+    "Contributed by": "Klaudia",
+    "Ingredients": "Składniki",
+    "Directions": "Sposób przygotowania",
+    "View full recipe at": "Zobacz pełny przepis na",
+    "Similar drinks": "Podobne napoje"
+  }
 }
 </i18n>
