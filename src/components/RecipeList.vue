@@ -170,5 +170,9 @@ export default {
   "uk": {
     "View Recipe": "Переглянути рецепт"
   }
+    "pl": {
+    "View Recipe": "Zobacz przepis"
+  }
 }
 </i18n>
+
