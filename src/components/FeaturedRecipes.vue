@@ -72,5 +72,8 @@ export default {
   "uk": {
     "Load More": "Завантажити більше"
   }
+    "pl": {
+    "Load More": "Załaduj więcej"
+  }
 }
 </i18n>
