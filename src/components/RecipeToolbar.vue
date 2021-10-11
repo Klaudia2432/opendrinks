@@ -192,5 +192,13 @@ export default {
     "Copy URL": "скопіювати URL",
     "Hide Image": "Приховати зображення"
   }
+    "pl": {
+    "Print": "Drukuj",
+    "Share": "Udostępnij",
+    "Share on Facebook": "Udostępnij na Facebooku",
+    "Share on Twitter": "Udostępnij na Twitterze",
+    "Copy URL": "Kopiuj URL",
+    "Hide Image": "Ukryj zdjęcie"
+  }
 }
 </i18n>
